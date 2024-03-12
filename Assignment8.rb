@@ -20,3 +20,5 @@ end
 
 # Print the final value of j after the conditions are checked
 puts "j= #{j}"
+
+# Merits: Similar to python ruby is known for its redability and simplicity. In ruby we use case statements.
