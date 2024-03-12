@@ -1,3 +1,7 @@
+# Matthew Frankowski
+# CUS 1168
+# Assignment 8
+
 # Assigning values to variables k and j
 k = 5
 j = 3

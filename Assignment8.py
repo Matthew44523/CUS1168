@@ -1,3 +1,7 @@
+# Matthew Frankowski
+# CUS 1168
+# Assignment 8
+
 # Assigning values to variables k and j
 k = int(5)
 j = int(3)
