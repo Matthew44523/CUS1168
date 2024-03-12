@@ -18,3 +18,7 @@ elif k == 6 or k == 7 or k == 8:
 
 # Print the final value of j after the conditions are checked
 print(j)
+
+# Merits: Python unlike Java does not have a switch case, meaning we have to use if and elif statements. 
+# Python is very readable and easy to understand this can be seen in the elif statements. It is however interpreted meaning
+# it may compile slower.
