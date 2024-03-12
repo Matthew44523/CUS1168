@@ -20,6 +20,9 @@ public class Assignment8 {
         /*Print J after going through the switch case*/
         System.out.println(j);
 
+        /*The merits of using Java for this assignment is that it allows for a switch statement.
+        * Java and other C based languages are also statistically typed and compiled*/
+
     }
 
 }
